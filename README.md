@@ -10,5 +10,9 @@ The main technologies we are learning are:
 5. Next [![Next](https://skills.thijs.gg/icons?i=nextjs)](https://skills.thijs.gg)
 6. MongoDB [![MongoDB](https://skills.thijs.gg/icons?i=mongodb)](https://skills.thijs.gg)
 
+##Look at what I did so far:
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Bruno0221)](https://git.io/streak-stats)
+
 ## Here is a cute cat gif I added, just because I can:
 ![Cute Cat](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
