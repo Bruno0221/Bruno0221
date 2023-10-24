@@ -1,7 +1,7 @@
 # Welcome to my Profile :v:
 (You are visitor number: ![Visitor Count](https://profile-counter.glitch.me/Bruno0221/count.svg))
 ## About me:
-I am currently doing a Bootcamp to become a *Web Developer* at <a href="https://www.neuefische.de/" style="text-decoration: none">Neue Fische</a>.
+I am currently doing a Bootcamp to become a *Web Developer* at <a href="https://www.neuefische.de/">Neue Fische</a>.
 ### Bootcamp Content:
 The main technologies We are learning are:
 1. html [![html](https://skills.thijs.gg/icons?i=html)](https://skills.thijs.gg)
@@ -13,9 +13,9 @@ The main technologies We are learning are:
 
 ## Look at my Github Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Bruno0221&theme=dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno0221&layout=compact&theme=shadow_green)
 
-[![Bruno's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Bruno0221&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Bruno0221&theme=shadow_green&border_radius=5&date_format=j%2Fn%5B%2FY%5)](https://git.io/streak-stats)
 
 ## Here is a cute cat gif I added, just because I can:
 ![Cute Cat](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
