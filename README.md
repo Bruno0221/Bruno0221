@@ -1,7 +1,7 @@
 # Welcome to my Profile :v:
 (You are visitor number: ![Visitor Count](https://profile-counter.glitch.me/Bruno0221/count.svg))
 ## About me:
-I am currently doing a Bootcamp to become a *Web Developer* at <a href="https://www.neuefische.de/" style="text-decoration: none">**Neue Fische**.</a>
+I am currently doing a Bootcamp to become a *Web Developer* at <a href="https://www.neuefische.de/" style="text-decoration: none">Neue Fische</a>.
 ### Bootcamp Content:
 The main technologies We are learning are:
 1. html [![html](https://skills.thijs.gg/icons?i=html)](https://skills.thijs.gg)
