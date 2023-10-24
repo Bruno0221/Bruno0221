@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&color=068523&background=53FFE100&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&color=068523&background=53FFE100&vCenter=true&random=false&width=435&lines=Welcome+to+my+profile+)](https://git.io/typing-svg)
 
 ## About me:
 I am currently doing a Bootcamp to become a *Web Developer* at <a href="https://www.neuefische.de/">Neue Fische</a>.
