@@ -3,15 +3,12 @@
 I am currently doing a Bootcamp to become a *Web Developer* at **Neue Fische**.
 ### Bootcamp Content:
 The main technologies we are learning are:
-1. html 
-2. CSS
-3. Javascript
-4. React
-5. Next
-6. MongoDB
-7. Agile Project Management
-8. UX/UI Design
+1. html [![html](https://skills.thijs.gg/icons?i=html)](https://skills.thijs.gg)
+2. CSS [![CSS](https://skills.thijs.gg/icons?i=css)](https://skills.thijs.gg)
+3. Javascript [![Javascript](https://skills.thijs.gg/icons?i=js)](https://skills.thijs.gg)
+4. React [![React](https://skills.thijs.gg/icons?i=react)](https://skills.thijs.gg)
+5. Next [![Next](https://skills.thijs.gg/icons?i=nextjs)](https://skills.thijs.gg)
+6. MongoDB [![MongoDB](https://skills.thijs.gg/icons?i=mongodb)](https://skills.thijs.gg)
 
 ## Here is a cute cat gif I added, just because I can:
 ![Cute Cat](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-
