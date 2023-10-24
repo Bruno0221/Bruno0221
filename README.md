@@ -13,11 +13,12 @@ The main technologies We are learning are:
 
 ## Look at my Github Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Bruno0221)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Bruno0221&theme=dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 [![Bruno's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Bruno0221&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 ## Here is a cute cat gif I added, just because I can:
 ![Cute Cat](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 
 
