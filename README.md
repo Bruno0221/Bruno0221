@@ -3,7 +3,7 @@
 I am currently doing a Bootcamp to become a *Web Developer* at **Neue Fische**.
 ### Bootcamp Content:
 The main technologies we are learning are:
-1. html
+1. html 
 2. CSS
 3. Javascript
 4. React
@@ -11,3 +11,7 @@ The main technologies we are learning are:
 6. MongoDB
 7. Agile Project Management
 8. UX/UI Design
+
+## Here is a cute cat gif I added, just because I can:
+![Cute Cat](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
