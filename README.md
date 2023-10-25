@@ -13,10 +13,9 @@ The main technologies We are learning are:
 
 ## Look at my Github Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno0221&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno0221&layout=compact&theme=transparent&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Bruno0221&theme=transparent&border_radius=5&date_format=j%2Fn%5B%2FY%5)
+![GitHub Streak](https://streak-stats.demolab.com?user=Bruno0221&theme=transparent&border_radius=5&date_format=j%2Fn%5B%2FY%5&hide_border=true)
 
 ## Here is a cute cat gif I added, just because I can:
 ![Cute Cat](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-
