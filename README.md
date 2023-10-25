@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&color=068523&background=53FFE100&vCenter=true&random=false&width=435&lines=Welcome+to+my+profile+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&color=0969DA&background=53FFE100&vCenter=true&random=false&width=435&lines=Welcome+to+my+profile+)](https://git.io/typing-svg)
 
 ## About me:
 I am currently doing a Bootcamp to become a *Web Developer* at <a href="https://www.neuefische.de/">Neue Fische</a>.
@@ -13,9 +13,9 @@ The main technologies We are learning are:
 
 ## Look at my Github Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno0221&layout=compact&theme=shadow_green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno0221&layout=compact&theme=transparent)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Bruno0221&theme=shadow_green&border_radius=5&date_format=j%2Fn%5B%2FY%5)
+![GitHub Streak](https://streak-stats.demolab.com?user=Bruno0221&theme=transparent&border_radius=5&date_format=j%2Fn%5B%2FY%5)
 
 ## Here is a cute cat gif I added, just because I can:
 ![Cute Cat](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
