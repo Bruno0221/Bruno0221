@@ -15,4 +15,4 @@ The main technologies We are learning are:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno0221&layout=compact&theme=transparent&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Bruno0221&theme=transparent&border_radius=5&date_format=j%2Fn%5B%2FY%5&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Bruno0221&theme=transparent&border_radius=5&date_format=j%2Fn%5B%2FY&hide_border=true)
