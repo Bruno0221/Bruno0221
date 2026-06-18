@@ -1,7 +1,3 @@
-# Welcome to My GitHub Profile 🚀
-
-Welcome to my GitHub profile! Here, you can explore the technologies I am actively using in my projects. Feel free to check out my repositories and see the code I've been working on.
-
 ## Technologies I’m Using 🔧
 
 The following are the key technologies I am using in my development work:
