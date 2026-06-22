@@ -20,9 +20,3 @@ The following are the key technologies I am using in my development work:
 Here are some of my GitHub stats to showcase the projects and contributions I’ve been working on:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno0221&layout=compact&theme=transparent&hide_border=true)
-
----
-
-## Let’s Connect 🔗
-
-Feel free to explore my repositories, star your favorites, and contribute to open-source projects. If you have any questions or suggestions, don't hesitate to reach out!
